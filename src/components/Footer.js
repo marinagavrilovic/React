@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Pridruži se našem kuvarskom newsletteru i pronađi najbolje recepte
+          Pridruži se našem kuvarskom newsletteru i pronađi najbolje recepte!
         </p>
         <p className='footer-subscription-text'>
           Možeš da se odjaviš kad god želiš.
